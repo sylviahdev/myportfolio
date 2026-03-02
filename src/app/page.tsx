@@ -1,4 +1,7 @@
 import Image from "next/image";
+import CVHeader from "@/components/CVHeader";
+
+
 
 export default function CVPage() {
   return (
@@ -27,11 +30,11 @@ export default function CVPage() {
             </p>
 
             <div className="mt-4 text-gray-600 text-sm space-y-1">
-              <p>Email: your@email.com</p>
-              <p>Phone: +254 XXX XXX XXX</p>
+              <p>Email: sylviah.rutto@gmail.com</p>
+              <p>Phone: +254 758668360</p>
               <p>Location: Nairobi, Kenya</p>
-              <p>GitHub: github.com/yourusername</p>
-              <p>LinkedIn: linkedin.com/in/yourprofile</p>
+              <p>GitHub: https://github.com/sylviahdev</p>
+              <p>LinkedIn: https://www.linkedin.com/in/sylviah-rutto-a7a17378/</p>
             </div>
           </div>
         </div>
