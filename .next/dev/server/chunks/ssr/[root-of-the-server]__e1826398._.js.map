@@ -1,0 +1,9 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 17, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":""}},
+    {"offset": {"line": 20, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":""}},
+    {"offset": {"line": 23, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":""}},
+    {"offset": {"line": 27, "column": 0}, "map": {"version":3,"sources":["file:///home/sylvia/projects/prodev-portfolio/src/app/page.tsx"],"sourcesContent":["import Hero from '@/components/Hero';\nimport Projects from '@/components/Projects';\nimport Contact from '@/components/Contact';\n\nexport default function HomePage() {\n  return (\n    <>\n      <Hero />\n      <Projects />\n      <Contact />\n    </>\n  );\n}\n"],"names":[],"mappings":";;;;;AAAA;AACA;AACA;;;;;AAEe,SAAS;IACtB,qBACE;;0BACE,8OAAC,qIAAI;;;;;0BACL,8OAAC,yIAAQ;;;;;0BACT,8OAAC,wIAAO;;;;;;;AAGd"}}]
+}
